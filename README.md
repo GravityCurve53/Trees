@@ -1,6 +1,5 @@
 # Trees
-I made stupid discord bots that tree, so heres the code
+I made stupid discord bots that tree, so heres the code (works best with multiple instances running)
 
-supposed to have multiple instances running btw
-
-also remember to change the code and add the channel IDs manually, you have to do this cause I never think ahead and im kinda dumb
+# also remember to edit the code and add the channel IDs manually
+you have to do this cause I never think ahead and im kinda dumb
