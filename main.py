@@ -46,5 +46,5 @@ async def on_ready():
 async def DoTreeThings():
     while True:
         await send_message(random.choice(ABSOLUTE_CINEMA), random.choice(ForestChannels))
-        await asyncio.sleep(random.randint(3, 5))
+        await asyncio.sleep(random.randint(7, 10))
 bot.run(token)
